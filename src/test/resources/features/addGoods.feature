@@ -11,8 +11,8 @@ Feature: Add Goods to Cart
     Then Enter value for "Kubek"
     Then Click button Dodaj in field "Kubek"
     # Invalid amount for passing the test
-    Then Total value is "19"
+#    Then Total value is "19"
     # if the amount is correct, then the test is not passed
-#    Then Total value is "sum"
+    Then Total value is "sum"
     Then Click button Delete
     Then Total value is "0"

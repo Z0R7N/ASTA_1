@@ -21,7 +21,7 @@ Expected result: the quantity of goods matches the entered quantity
 
 Actual result: the quantity of goods does not match the entered quantity 
 
-#Bag Report
+# Bag Report
 
 Severity: Critical
 
